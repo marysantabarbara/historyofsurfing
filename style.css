@@ -1,0 +1,14 @@
+body {
+  color: darkslategray;
+  font-family: Baloo Bhai;
+  margin: 50px 50px 50px 50px;
+}
+h1 {
+  font-family: Baloo;
+}
+
+.image {
+  position: absolute;
+  width: 200px;
+  font: white;
+}
